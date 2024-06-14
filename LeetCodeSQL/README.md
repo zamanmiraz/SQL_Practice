@@ -8,3 +8,5 @@ Each title name of the file represents the corresponding question in LeetCode.
 **Lesson From 1107**: DATEDIFF(date1, date2)> Date difference between date1 and date2.
 
 **Lesson From 1112** Window function, described in: https://www.youtube.com/watch?v=7NBt0V8ebGk
+
+**Lesson From 1142** using IFNULL(value, replace_value)
