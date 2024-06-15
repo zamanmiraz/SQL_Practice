@@ -10,3 +10,5 @@ Each title name of the file represents the corresponding question in LeetCode.
 **Lesson From 1112** Window function, described in: https://www.youtube.com/watch?v=7NBt0V8ebGk
 
 **Lesson From 1142** using IFNULL(value, replace_value)
+
+**Lesson From 1158** placing where clause effect
