@@ -16,3 +16,5 @@ Each title name of the file represents the corresponding question in LeetCode.
 **Lesson From 1164** Performance optimization using *Join* and *In* clause
 
 **Lesson From 1173** Learn *AVG* Function
+
+**Lesson From 1179** Practice *Aggregate* during *GROUP BY*
