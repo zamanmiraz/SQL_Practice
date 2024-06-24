@@ -17,4 +17,4 @@ Each title name of the file represents the corresponding question in LeetCode.
 
 **Lesson From 1173** Learn *AVG* Function
 
-**Lesson From 1179** Practice *Aggregate* during *GROUP BY*
+**Lesson From 1179, 1193** Practice *Aggregate* during *GROUP BY*
