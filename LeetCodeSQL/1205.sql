@@ -1,4 +1,4 @@
-# Solution 1
+# Solution 1: Full Join 
 
 # Full Join = Left Join Union Right Join
 
@@ -52,7 +52,7 @@ SELECT
 FROM T1 RIGHT JOIN T2
 ON T1.month = T2.month AND T1.country = T2.country
 
-# Solution 2
+# Solution 2: Union Aggregation
 
 -- SELECT T1.month, T1.country, SUM(approved_count) AS approved_count, SUM(approved_amount) AS approved_amount, SUM(chargeback_count) AS chargeback_count, SUM(chargeback_amount) AS chargeback_amount
 -- FROM
