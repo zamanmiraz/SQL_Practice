@@ -16,4 +16,4 @@ Each title name of the file represents the corresponding question in LeetCode.
 | 1179, 1193               | Practice *Aggregate* during *GROUP BY*                                          |
 | 1193                     | Learn *DATE_FORMAT*                                                             |
 | 1204                     | Practice *Window* Function -> *ORDER BY & PARTITION BY*                         |
-
+| 1205                     | Practice *Full Join* , *Left Join*, *Right Join*                                |
