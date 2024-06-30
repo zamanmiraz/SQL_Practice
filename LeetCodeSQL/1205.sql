@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+# Solution 1
 
 # Full Join = Left Join Union Right Join
 
@@ -51,3 +51,19 @@ SELECT
     COALESCE(T2.chargeback_amount, 0) AS chargeback_amount
 FROM T1 RIGHT JOIN T2
 ON T1.month = T2.month AND T1.country = T2.country
+
+# Solution 2
+
+-- SELECT T1.month, T1.country, SUM(approved_count) AS approved_count, SUM(approved_amount) AS approved_amount, SUM(chargeback_count) AS chargeback_count, SUM(chargeback_amount) AS chargeback_amount
+-- FROM
+--     (SELECT DATE_FORMAT(trans_date, '%Y-%m') AS month, country, COUNT(state) AS approved_count, SUM(amount) AS approved_amount, 0 chargeback_count, 0 chargeback_amount
+--         FROM Transactions
+--         WHERE state = 'approved'
+--         GROUP BY month, country
+-- UNION
+--     SELECT DATE_FORMAT(C.trans_date, '%Y-%m') AS month, country, 0 approved_count, 0 approved_amount, COUNT(state) AS chargeback_count, SUM(amount) AS chargeback_amount
+--      FROM Chargebacks C
+--      JOIN Transactions T ON C.trans_id = T.id
+--      GROUP BY month, country) T1
+
+-- GROUP BY T1.month, T1.country
