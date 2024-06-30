@@ -14,5 +14,6 @@ Each title name of the file represents the corresponding question in LeetCode.
 | 1164                     | Performance optimization using *Join* and *In* clause                           |
 | 1173                     | Learn *AVG* Function                                                            |
 | 1179, 1193               | Practice *Aggregate* during *GROUP BY*                                          |
+| 1193                     | Learn *DATE_FORMAT*                                                             |
 | 1204                     | Practice *Window* Function -> *ORDER BY & PARTITION BY*                         |
 
