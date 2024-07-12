@@ -18,3 +18,4 @@ Each title name of the file represents the corresponding question in LeetCode.
 | 1204                     | Practice *Window* Function -> *ORDER BY & PARTITION BY*                         |
 | **1205**                 | Must Practice *Full Join* , *Left Join*, *Right Join*                           |
 | **1212**                 | Practice and Find better time complexity                                        |
+| **1264**                 | Practice and Find better time complexity                                        |
