@@ -21,3 +21,4 @@ Each title name of the file represents the corresponding question in LeetCode.
 | **1264**                 | Practice and Find better time complexity                                        |
 | **1270**                 | Practice join                                                                   |
 | **1285**                 | Must Practice                                                                   |
+| **1308**                 | Practice Over                                                                   |
