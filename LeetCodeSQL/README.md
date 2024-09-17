@@ -24,3 +24,4 @@ Each title name of the file represents the corresponding question in LeetCode.
 | **1308**                 | Practice Over                                                                   |
 | **1321**                 | Must Practice                                                                   |
 | **1341**                 | Union All & Limit                                                               |
+| 1341                     | Learn *Case* Function                                                           |
