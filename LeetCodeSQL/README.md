@@ -25,3 +25,4 @@ Each title name of the file represents the corresponding question in LeetCode.
 | **1321**                 | Must Practice                                                                   |
 | **1341**                 | Union All & Limit                                                               |
 | 1393                     | Learn *Case* Function                                                           |
+| **1454**                 | DATE_SUB, RANK, WINDOW FUNCTION, INTERVAL                                       |
