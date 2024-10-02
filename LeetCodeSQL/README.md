@@ -26,3 +26,4 @@ Each title name of the file represents the corresponding question in LeetCode.
 | **1341**                 | Union All & Limit                                                               |
 | 1393                     | Learn *Case* Function                                                           |
 | **1454**                 | DATE_SUB, RANK, WINDOW FUNCTION, INTERVAL                                       |
+| 1484                     | GROUP_CONCAT                                                                    |
