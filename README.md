@@ -1,3 +1,3 @@
 # SQL_Practice
 SQL Practice from following Source
-1. LeetCode
+1. LeetCodeSQL: SQL practice from LeetCode
