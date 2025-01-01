@@ -67,22 +67,6 @@ Below is a table summarizing the key lessons and concepts learned from each Leet
 
 ---
 
-## Practice Tips
-1. **Understand the Problem**:
-   - Read the problem statement carefully and identify the required output.
-
-2. **Optimize Queries**:
-   - Compare the performance of subqueries vs. joins.
-   - Use indexes and avoid unnecessary computations.
-
-3. **Test Edge Cases**:
-   - Test your queries with edge cases (e.g., empty tables, null values).
-
-4. **Document Learnings**:
-   - Keep notes on key concepts and lessons learned from each problem.
-
----
-
 ## Resources
 1. [LeetCode SQL Problems](https://leetcode.com/problemset/database/)
 2. [Window Functions Tutorial](https://www.youtube.com/watch?v=7NBt0V8ebGk)
