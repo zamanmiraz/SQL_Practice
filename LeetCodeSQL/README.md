@@ -28,3 +28,4 @@ Each title name of the file represents the corresponding question in LeetCode.
 | **1454**                 | DATE_SUB, RANK, WINDOW FUNCTION, INTERVAL                                       |
 | 1484                     | GROUP_CONCAT                                                                    |
 | **1517, 1527**           | [REGEXP Note](https://github.com/zamanmiraz/SQL_Practice/blob/main/Notes/REGEXP.md)|
+| **1613**        | [Recursive CTE](https://github.com/zamanmiraz/SQL_Practice/blob/main/Notes/Recursive_CTE.md)|
