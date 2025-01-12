@@ -36,6 +36,7 @@ Below is a table summarizing the key lessons and concepts learned from each Leet
 | **1484**                | Learning `GROUP_CONCAT`.                                                        |
 | **1517, 1527**          | Practicing regular expressions (`REGEXP`). [See notes here](https://github.com/zamanmiraz/SQL_Practice/blob/main/Notes/REGEXP.md). |
 | **1613**                | Learning Recursive CTEs. [See notes here](https://github.com/zamanmiraz/SQL_Practice/blob/main/Notes/Recursive_CTE.md). |
+| **1699**                | Learning `LEAST`, `GREATEST`.                                                        |
 
 ---
 
