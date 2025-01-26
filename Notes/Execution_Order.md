@@ -57,5 +57,3 @@ To remember the SQL query execution order, use the mnemonic:
 
 8. **Lunches** → `LIMIT`/`OFFSET`  
    - Restrict the number of rows in the result.
-
-By associating each clause with a word, you can easily recall the correct SQL query execution order.
