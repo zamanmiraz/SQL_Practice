@@ -13,6 +13,7 @@ Below is a table summarizing the key lessons and concepts learned from each Leet
 
 | **LeetCode Question #** | **Description**                                                                 |
 |--------------------------|---------------------------------------------------------------------------------|
+| **618**                | Learn pivot                                                                       |
 | **1083**                | Computational time for subquery vs. join.                                       |
 | **1107**                | Using `DATEDIFF(date1, date2)` to calculate the difference between two dates.   |
 | **1112**                | Window functions. [Watch this YouTube tutorial](https://www.youtube.com/watch?v=7NBt0V8ebGk). |
