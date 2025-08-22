@@ -40,6 +40,7 @@ Below is a table summarizing the key lessons and concepts learned from each Leet
 | **1699**                | Learning `LEAST`, `GREATEST`.                                                        |
 | **1783**                | Conditional Aggregation                                                        |
 | **2228**                | Lag Function                                                                     |
+| **1336**                | Recursive CTE                                                                   |
 
 ---
 
