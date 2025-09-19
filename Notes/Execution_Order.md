@@ -53,8 +53,11 @@ To remember the SQL query execution order, use the mnemonic:
    - Remove duplicate rows.
 
 7. **Outdoor** → `ORDER BY`
+   - Sort the result set.
 
-### How to **remember without mnemonics**
+8. **Lunches** → `LIMIT`/`OFFSET`  
+   - Restrict the number of rows in the result.
+# How to **remember without mnemonics**
 
 Instead of memorizing, think:
 
@@ -67,8 +70,3 @@ Instead of memorizing, think:
 
 This is a natural data-processing pipeline:  
 **Source → Filter → Group → Project → Sort → Slice**
-
-   - Sort the result set.
-
-9. **Lunches** → `LIMIT`/`OFFSET`  
-   - Restrict the number of rows in the result.
