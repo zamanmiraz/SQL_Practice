@@ -52,8 +52,23 @@ To remember the SQL query execution order, use the mnemonic:
 6. **During** → `DISTINCT`  
    - Remove duplicate rows.
 
-7. **Outdoor** → `ORDER BY`  
+7. **Outdoor** → `ORDER BY`
+
+### How to **remember without mnemonics**
+
+Instead of memorizing, think:
+
+- **Start with the source** → (`FROM`, `JOIN`)
+- **Filter rows early** → (`WHERE`)
+- **Group and filter groups** → (`GROUP BY` → `HAVING`)
+- **Decide what to show** → (`SELECT`, `DISTINCT`)
+- **Arrange the output** → (`ORDER BY`)
+- **Trim the output** → (`LIMIT`)
+
+This is a natural data-processing pipeline:  
+**Source → Filter → Group → Project → Sort → Slice**
+
    - Sort the result set.
 
-8. **Lunches** → `LIMIT`/`OFFSET`  
+9. **Lunches** → `LIMIT`/`OFFSET`  
    - Restrict the number of rows in the result.
